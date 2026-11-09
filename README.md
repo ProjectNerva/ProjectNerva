@@ -27,6 +27,9 @@ Below are 8 projects grouped by theme — each is its own repo with a README and
 
 ## Web Apps & Games
 
+> [!WARNING]
+> **Not supported for local setup.** The projects below are showcase copies of apps built to run as hosted services. They are not maintained as standalone local installs, so running them on your own machine may fail or need extra configuration (API keys, a headless browser, or Docker). Treat the repos as reference code.
+
 | Project | What it does | Stack |
 |---------|--------------|-------|
 | [**Resourcify**](https://github.com/ProjectNerva/Resourcify---Copy) | Phone-first site for San Diego County residents and outreach workers: grounded 211 answers, a supplies and budget **Rationer**, benefits guidance, a community map, and offline **Meshtastic** mesh messages, in English and Spanish | React · Vite · Express · Render |
