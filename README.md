@@ -38,7 +38,7 @@ Below are 8 projects grouped by theme — each is its own repo with a README and
 
 ## Recognition
 
-<img src="assets/ai-challenge.jpg" alt="Presidential AI Challenge certificate awarded to Saevin Hong for contributing to the 2026 Presidential AI Challenge" width="480">
+<img src="assets/ai-challenge.jpg" alt="Presidential AI Challenge certificate awarded to Saevin Hong for contributing to the 2026 Presidential AI Challenge" width="300">
 
 ---
 
