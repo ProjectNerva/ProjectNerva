@@ -36,6 +36,10 @@ Below are 8 projects grouped by theme — each is its own repo with a README and
 | [**ZeroDay Defense**](https://github.com/ProjectNerva/ZeroDayDefense---Copy) | Interactive **cybersecurity training game** where players investigate simulated attacks through a VM desktop with emails, files, USBs, and a security terminal | React · Vite · Vercel |
 | [**Sandboxed**](https://github.com/ProjectNerva/Sandboxed---Copy) | **URL detonation engine** that opens suspicious links (like scammy QR codes) in an isolated headless browser, follows the redirect chain, screenshots the landing page, and returns a risk verdict, with a browser extension and phone web app | Node.js · Headless browser · Browser extension · Fly.io |
 
+## Recognition
+
+<img src="assets/ai-challenge.jpg" alt="Presidential AI Challenge certificate awarded to Saevin Hong for contributing to the 2026 Presidential AI Challenge" width="480">
+
 ---
 
 <sub>Each project has a README with build and run instructions. The socket repos are meant to be used together: each client has a matching server.</sub>
