@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 I build across **robotics & computer vision, systems programming, and data analysis**.
-Below are 7 projects grouped by theme — each is its own repo with a README and run instructions.
+Below are 8 projects grouped by theme — each is its own repo with a README and run instructions.
 
 ---
 
@@ -31,6 +31,7 @@ Below are 7 projects grouped by theme — each is its own repo with a README and
 |---------|--------------|-------|
 | [**Resourcify**](https://github.com/ProjectNerva/Resourcify---Copy) | Phone-first site for San Diego County residents and outreach workers: grounded 211 answers, a supplies and budget **Rationer**, benefits guidance, a community map, and offline **Meshtastic** mesh messages, in English and Spanish | React · Vite · Express · Render |
 | [**ZeroDay Defense**](https://github.com/ProjectNerva/ZeroDayDefense---Copy) | Interactive **cybersecurity training game** where players investigate simulated attacks through a VM desktop with emails, files, USBs, and a security terminal | React · Vite · Vercel |
+| [**Sandboxed**](https://github.com/ProjectNerva/Sandboxed---Copy) | **URL detonation engine** that opens suspicious links (like scammy QR codes) in an isolated headless browser, follows the redirect chain, screenshots the landing page, and returns a risk verdict, with a browser extension and phone web app | Node.js · Headless browser · Browser extension · Fly.io |
 
 ---
 
