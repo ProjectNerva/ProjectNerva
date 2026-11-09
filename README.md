@@ -5,25 +5,25 @@ Below are 5 projects grouped by theme — each is its own repo with a README and
 
 ---
 
-## Robotics & computer vision
+## Robotics & Computer Vision
 
 | Project | What it does | Stack |
 |---------|--------------|-------|
-| [**Spatial Intelligence Project**](https://github.com/ProjectNerva/REHS-SpatialIntelligenceProject) | Live **ORB-SLAM3** on an OAK-D camera (RGB-D and stereo-inertial), with **YOLO-masked dense 3D reconstruction** and ATE trajectory evaluation | C++ · ORB-SLAM3 · DepthAI · OpenCV · Docker |
-| [**HEF Conversion**](https://github.com/ProjectNerva/REHS-HEFConversion) | Converts Ultralytics **YOLO** models into Hailo `.hef` files for the **Hailo-8 accelerator**, in raw-tensor or NMS-baked pipelines | Python · ONNX · Hailo DFC · Docker |
+| [**REHS Spatial Intelligence Project**](https://github.com/ProjectNerva/REHS-SpatialIntelligenceProject) | Live **ORB-SLAM3** on an OAK-D camera (RGB-D and stereo-inertial), with **YOLO-masked dense 3D reconstruction** and ATE trajectory evaluation | C++ · ORB-SLAM3 · DepthAI · OpenCV · Docker |
+| [**HEF Converter**](https://github.com/ProjectNerva/REHS-HEFConversion) | Converts Ultralytics **YOLO** models into Hailo `.hef` files for the **Hailo-8 accelerator**, in raw-tensor or NMS-baked pipelines | Python · ONNX · Hailo DFC · Docker |
 
-## Systems & networking
-
-| Project | What it does | Stack |
-|---------|--------------|-------|
-| [**Socket Server Code**](https://github.com/ProjectNerva/Socket-Server-Code) | TCP servers that go from single-client chat up to a **multithreaded chatroom** with mutex-protected state and saved chat history | C++ · POSIX sockets · pthreads |
-| [**Socket Client Code**](https://github.com/ProjectNerva/Socket-Client-Code) | The matching clients, ending in a **multithreaded client** with separate send/receive threads and a clean Ctrl+C exit | C++ · POSIX sockets · pthreads |
-
-## Data analysis & statistics
+## Systems & Networking
 
 | Project | What it does | Stack |
 |---------|--------------|-------|
-| [**Data Analysis**](https://github.com/ProjectNerva/DataAnalysis) | Tests whether **gamified learning** improves student scores, using t-tests, bootstrapping, Mann-Whitney U, and Fisher's exact test | Python · Jupyter · Pandas · SciPy · Seaborn |
+| [**Socket-Based Comm - Server**](https://github.com/ProjectNerva/Socket-Server-Code) | TCP servers that go from single-client chat up to a **multithreaded chatroom** with mutex-protected state and saved chat history | C++ · POSIX sockets · pthreads |
+| [**Socket-Based Comm - Client**](https://github.com/ProjectNerva/Socket-Client-Code) | The matching clients, ending in a **multithreaded client** with separate send/receive threads and a clean Ctrl+C exit | C++ · POSIX sockets · pthreads |
+
+## Data Analysis & Statistics
+
+| Project | What it does | Stack |
+|---------|--------------|-------|
+| [**Gamified Learning Impact on Academic Performance Analysis**](https://github.com/ProjectNerva/DataAnalysis) | Tests whether **gamified learning** improves student scores, using t-tests, bootstrapping, Mann-Whitney U, and Fisher's exact test | Python · Jupyter · Pandas · SciPy · Seaborn |
 
 ---
 
