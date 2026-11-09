@@ -1,16 +1,30 @@
 ## Hi there 👋
 
-<!--
-**ProjectNerva/ProjectNerva** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I build across **robotics & computer vision, systems programming, and data analysis**.
+Below are 5 projects grouped by theme — each is its own repo with a README and run instructions.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Robotics & computer vision
+
+| Project | What it does | Stack |
+|---------|--------------|-------|
+| [**Spatial Intelligence Project**](https://github.com/ProjectNerva/REHS-SpatialIntelligenceProject) | Live **ORB-SLAM3** on an OAK-D camera (RGB-D and stereo-inertial), with **YOLO-masked dense 3D reconstruction** and ATE trajectory evaluation | C++ · ORB-SLAM3 · DepthAI · OpenCV · Docker |
+| [**HEF Conversion**](https://github.com/ProjectNerva/REHS-HEFConversion) | Converts Ultralytics **YOLO** models into Hailo `.hef` files for the **Hailo-8 accelerator**, in raw-tensor or NMS-baked pipelines | Python · ONNX · Hailo DFC · Docker |
+
+## Systems & networking
+
+| Project | What it does | Stack |
+|---------|--------------|-------|
+| [**Socket Server Code**](https://github.com/ProjectNerva/Socket-Server-Code) | TCP servers that go from single-client chat up to a **multithreaded chatroom** with mutex-protected state and saved chat history | C++ · POSIX sockets · pthreads |
+| [**Socket Client Code**](https://github.com/ProjectNerva/Socket-Client-Code) | The matching clients, ending in a **multithreaded client** with separate send/receive threads and a clean Ctrl+C exit | C++ · POSIX sockets · pthreads |
+
+## Data analysis & statistics
+
+| Project | What it does | Stack |
+|---------|--------------|-------|
+| [**Data Analysis**](https://github.com/ProjectNerva/DataAnalysis) | Tests whether **gamified learning** improves student scores, using t-tests, bootstrapping, Mann-Whitney U, and Fisher's exact test | Python · Jupyter · Pandas · SciPy · Seaborn |
+
+---
+
+<sub>Each project has a README with build and run instructions. The socket repos are meant to be used together: each client has a matching server.</sub>
