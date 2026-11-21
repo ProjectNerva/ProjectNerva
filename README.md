@@ -39,6 +39,9 @@ Below are 8 projects grouped by these four domains—ranging from real-time 3D m
 
 ## Recognition
 
+- **2026 Presidential AI Challenge — California State Champion (1st Place).** Certificate awarded to Saevin Hong.
+  - Press: ["SDUHSD Students Named State Champions in Presidential AI Challenge"](https://www.sdcoe.net/about-sdcoe/news/post/~board/news/post/sduhsd-students-named-state-champions-in-presidential-ai-challenge) — *SDCOE News*, Apr 17, 2026
+
 <img src="assets/ai-challenge.jpg" alt="Presidential AI Challenge certificate awarded to Saevin Hong for contributing to the 2026 Presidential AI Challenge" width="300">
 
 ---
