@@ -24,7 +24,7 @@ Below are 8 projects grouped by these four domains—ranging from real-time 3D m
 
 | Project | What it does | Stack |
 |---------|--------------|-------|
-| [**Gamified Learning Impact on Academic Performance Analysis** - DataJam](https://github.com/ProjectNerva/DataAnalysis) | Tests whether **gamified learning** improves student scores, using t-tests, bootstrapping, Mann-Whitney U, and Fisher's exact test | Python · Jupyter · Pandas · SciPy · Seaborn |
+| [**Gamified Learning Impact on Academic Performance Analysis**](https://github.com/ProjectNerva/DataAnalysis) - DataJam | Tests whether **gamified learning** improves student scores, using t-tests, bootstrapping, Mann-Whitney U, and Fisher's exact test | Python · Jupyter · Pandas · SciPy · Seaborn |
 
 ## Web Apps & Games
 
