@@ -34,7 +34,7 @@ Below are 8 projects grouped by these four domains—ranging from real-time 3D m
 | Project | What it does | Stack |
 |---------|--------------|-------|
 | [**Resourcify**](https://github.com/ProjectNerva/Resourcify---Copy) - Big Data Hackathon | Phone-first site for San Diego County residents and outreach workers: grounded 211 answers, a supplies and budget **Rationer**, benefits guidance, a community map, and offline **Meshtastic** mesh messages, in English and Spanish | React · Vite · Express · Render |
-| [**ZeroDay Defense**](https://github.com/ProjectNerva/ZeroDayDefense---Copy) - CipherHacks Hackathon | Interactive **cybersecurity training game** where players investigate simulated attacks through a VM desktop with emails, files, USBs, and a security terminal | React · Vite · Vercel |
+| [**ZeroDay Defense**](https://github.com/ProjectNerva/ZeroDayDefense---Copy) - CipherHacks Hackathon | Interactive **cybersecurity training game** where players investigate simulated attacks through a VM desktop with emails, files, USBs, and a security terminal, 2nd place(cash award) | React · Vite · Vercel |
 | [**Sandboxed**](https://github.com/ProjectNerva/Sandboxed---Copy) - CipherHacks 2 Hackathon | **URL detonation engine** that opens suspicious links (like scammy QR codes) in an isolated headless browser, follows the redirect chain, screenshots the landing page, and returns a risk verdict, with a browser extension and phone web app | Node.js · Headless browser · Browser extension · Fly.io |
 
 ## Recognition
